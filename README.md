@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student @ Umm Al-Qura University (Final Semester)  
 💻 Interested in Full-Stack Development, AI & Cybersecurity  
-🚀 Passionate about building real-world software from ideas  
+🚀 Passionate about turning ideas into real-world software projects  
 
 ---
 
