@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=160&section=header&text=Rimas%20Alqurashi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-# 🌟 Rimas Alqurashi
 
 <p align="center">
   🎓 Computer Science Student @ Umm Al-Qura University (Final Semester)  
