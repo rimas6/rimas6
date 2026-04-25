@@ -2,11 +2,6 @@
 
 # 🌟 Rimas Alqurashi
 
-<p align="center">
-  🎓 Computer Science Student @ Umm Al-Qura University (Final Semester)  
-  💻 Full-Stack Developer | AI Enthusiast | Cybersecurity Learner  
-  🚀 Building ideas into real-world systems  
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge"/>
@@ -20,10 +15,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final year Computer Science student  
-- 💡 Interested in AI, Backend Systems & Cybersecurity  
-- 🚀 Love turning ideas into working software  
-- 🧠 Always learning and improving  
+<p align="center">
+  🎓 Computer Science Student @ Umm Al-Qura University (Final Semester)  
+  💻 Full-Stack Developer | AI Enthusiast | Cybersecurity Learner  
+  🚀 Passionate about turning ideas into real-world software projects  
+</p>
 
 ---
 
