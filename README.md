@@ -11,11 +11,7 @@
   🚀 Building ideas into real-world systems  
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Learner-green?style=for-the-badge"/>
-</p>
+
 
 ---
 
