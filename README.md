@@ -1,7 +1,15 @@
 <!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=160&section=header&text=Rimas%20Alqurashi&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 # 🌟 Rimas Alqurashi
 
+<p align="center">
+  🎓 Computer Science Student @ Umm Al-Qura University (Final Semester)  
+  💻 Full-Stack Developer | AI Enthusiast | Cybersecurity Learner  
+  🚀 Building ideas into real-world systems  
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge"/>
@@ -11,17 +19,6 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
-## 👩‍💻 About Me
-
-<p align="center">
-  🎓 Computer Science Student @ Umm Al-Qura University (Final Semester)  
-  💻 Full-Stack Developer | AI Enthusiast | Cybersecurity Learner  
-  🚀 Passionate about turning ideas into real-world software projects  
-</p>
-
----
 
 <!-- ================= SKILLS ================= -->
 
