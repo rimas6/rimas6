@@ -7,8 +7,8 @@
 
 <p align="center">
   🎓 Computer Science Student @ Umm Al-Qura University (Final Semester)  
-  💻 Full-Stack Developer | AI Enthusiast | Cybersecurity Learner  
-  🚀 Building ideas into real-world systems  
+  💻 Full-Stack Developer | Interested in AI & Cybersecurity
+  🚀 Passionate about turning ideas into real-world software projects 
 </p>
 
 
