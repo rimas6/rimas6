@@ -63,12 +63,8 @@ Git • GitHub • VS Code • Power BI • XAMPP
 
 ---
 
-<!-- ================= LEARNING ================= -->
 
-## 📚 Currently Learning
-Machine Learning • Cybersecurity • Advanced Backend • Mobile Development  
 
----
 
 <!-- ================= FOOTER ================= -->
 
